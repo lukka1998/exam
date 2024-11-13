@@ -1,6 +1,6 @@
 import {React , useState} from 'react'
 import FrontCard from '../../atoms/FrontCard/FrontCard'
-import BackCard from '../../atoms/BackCard/Backcard'
+import BackCard from '../../atoms/BackCard/BackCard'
 import CardForm from '../CardForm/CardForm'
 function CardContainer() {
   const [formData, setFormData] = useState({
